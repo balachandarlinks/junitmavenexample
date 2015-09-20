@@ -13,6 +13,9 @@ import org.junit.Test;
 public class CalculatorTest {
 	private static ICalculator calculator;
 
+
+
+	
 	@BeforeClass
 	public static void initCalculator() {
 		calculator = new Calculator();
