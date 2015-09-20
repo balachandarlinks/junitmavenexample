@@ -15,7 +15,7 @@ public class CalculatorTest {
 
 
 
-	
+
 	@BeforeClass
 	public static void initCalculator() {
 		calculator = new Calculator();
